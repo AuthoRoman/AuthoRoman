@@ -1,4 +1,4 @@
-Sociability## Hi there 👋, I'm AuthoRoman
+## Hi there 👋, I'm AuthoRoman
 </br>
 
 ### I am a Frontend Developer  💻
