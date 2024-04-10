@@ -5,9 +5,9 @@
 
 -  Like to write code 💻
 -  Like to read a book 📖
--  Ability to work effectively in a team and participate in group programming 📊
--  Ambition 🔝
--  Sociability 💬
+-  Work effectively in a team and participate in group programs 📊
+-  Ambitious 🔝
+-  Сommunicative 💬
   
 </br>
 
