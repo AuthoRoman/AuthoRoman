@@ -1,13 +1,13 @@
 ## Hi there 👋, I'm AuthoRoman
 </br>
 
-### I am a Frontend Developer  💻
+### I am a Frontend Developer  
 
--  like to write code 💪
--  like to read a book 📖
--  Ability to work effectively in a team and participate in group programming.
--  Ambition
--  Sociability
+-  Like to write code 💻
+-  Like to read a book 📖
+-  Ability to work effectively in a team and participate in group programming 📊
+-  Ambition 🔝
+-  Sociability 💬
   
 </br>
 
