@@ -8,7 +8,7 @@
 -  Work effectively in a team and participate in group programs 📊
 -  Ambitious 🔝
 -  Сommunicative 💬
--  My student account: Wh1teCrow 👨‍🎓
+-  My student account: Wh1teCrow 👨‍🎓(https://github.com/Wh1teCrow)
   
 </br>
 
